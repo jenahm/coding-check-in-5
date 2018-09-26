@@ -24,7 +24,10 @@
 }
 
 .subhead {
-
+  color: black;
+  font-family: "Garamond", serif;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .recipe-title {
@@ -50,7 +53,7 @@ ul {
   line-height: normal;
   margin: auto;
   list-style-type: circle;
-  
+
 
 }
 
