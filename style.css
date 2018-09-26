@@ -5,11 +5,14 @@
   font-style: normal;
   text-align: center;
   margin: 1em;
-  
 }
 
 .introduction {
-
+  color: grey;
+  font-family: "Garamond", serif;
+  font-weight: normal;
+  font-style: italic;
+  text-align: left;
 }
 
 #recipes {
