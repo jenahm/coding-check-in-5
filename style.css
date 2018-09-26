@@ -16,7 +16,12 @@
 }
 
 #recipes {
-
+  color: #ffa20d;
+  font-family: "Helvetica", sans-serif;
+  font-weight: normal;
+  text-decoration: underline;
+  text-align: center;
+  
 }
 
 .subhead {
