@@ -1,5 +1,5 @@
 #book-title {
-  color: #ff400d;
+  color: #ff560d;
   font-family: "Helvetica", sans-serif;
   font-weight: bold;
   font-style: normal;
@@ -12,14 +12,14 @@
   font-family: "Garamond", serif;
   font-weight: normal;
   font-style: italic;
-  text-align: left;
+  text-align: center;
 }
 
 #recipes {
-  color: #ffa20d;
+  color: #d1540a;
   font-family: "Helvetica", sans-serif;
-  font-weight: normal;
-  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
   text-align: center;
 }
 
@@ -28,10 +28,15 @@
   font-family: "Garamond", serif;
   font-weight: bold;
   font-style: italic;
+  margin: 10px 0px 0px 0px;
 }
 
 .recipe-title {
-
+  font-family: "Helvetica", sans-serif;
+  color: #ffb40d;
+  font-weight: normal;
+  text-align: center;
+  margin: 30px 0px 0px 0px;
 }
 
 p {
@@ -39,22 +44,22 @@ p {
   color: black;
   line-height: normal;
   margin: auto;
-
-
 }
 
 h3 {
-
+  font-family: "Garamond", serif;
+  color: grey;
+  line-height: normal;
+  font-style: italic;
+  margin: 0px 0px 40px 0px;
 }
 
 ul {
   font-family: "Garamond", serif;
   color: black;
   line-height: normal;
-  margin: auto;
+  margin: 10px 0px 10px 0px;
   list-style-type: circle;
-
-
 }
 
 
