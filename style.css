@@ -1,5 +1,11 @@
 #book-title {
-
+  color: #ff400d;
+  font-family: "Helvetica", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  margin: 1em;
+  
 }
 
 .introduction {
@@ -27,7 +33,7 @@ h3 {
 }
 
 ul {
-  
+
 }
 
 
