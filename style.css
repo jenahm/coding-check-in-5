@@ -21,7 +21,6 @@
   font-weight: normal;
   text-decoration: underline;
   text-align: center;
-  
 }
 
 .subhead {
@@ -33,6 +32,11 @@
 }
 
 p {
+  font-family: "Garamond", serif;
+  color: black;
+  line-height: normal;
+  margin: auto;
+
 
 }
 
@@ -41,6 +45,12 @@ h3 {
 }
 
 ul {
+  font-family: "Garamond", serif;
+  color: black;
+  line-height: normal;
+  margin: auto;
+  list-style-type: circle;
+  
 
 }
 
